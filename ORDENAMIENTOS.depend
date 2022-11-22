@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1635011004 source:c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\lista.cpp
+	"Lista.h"
+
+1635015855 c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\lista.h
+	<iostream>
+	"Personaje.h"
+	"Nodo.h"
+
+1632522288 c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\nodo.h
+	"Personaje.h"
+	<stdlib.h>
+	<iostream>
+
+1634414085 c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\personaje.h
+	<iostream>
+
+1635015851 source:c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+	"Nodo.h"
+
+1634021074 source:c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\nodo.cpp
+	"Nodo.h"
+	<stdlib.h>
+
+1634021074 source:c:\users\misa_\onedrive\escritorio\estructura1\listano\listas2\personaje.cpp
+	"Personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
